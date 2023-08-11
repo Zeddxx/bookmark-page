@@ -45,7 +45,7 @@ const Email = () => {
           </div>
           <button
             onClick={emailHandler}
-            className='bg-soft-red w-full sm:w-1/3 grid-cols-1 text-white px-4 py-3 border border-soft-red duration-300 rounded-md hover:bg-gray-100 hover:text-soft-red'
+            className='bg-soft-red w-full sm:w-1/3 grid-cols-1 h-1/2 text-sm text-white px-4 py-3 border border-soft-red duration-300 rounded-md hover:bg-gray-100 hover:text-soft-red'
           >
             Contact Us
           </button>
